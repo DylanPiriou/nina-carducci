@@ -1,4 +1,4 @@
-# nina-carducci
+# Nina Carducci's website project
 Link of the website hosted on netlify :
 https://transcendent-tartufo-77d7bc.netlify.app/
 
