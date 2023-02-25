@@ -153,8 +153,8 @@ nav a {
 .quote__text {
 	font-family: Spectral;
 	font-style: italic;
+	font-size: 32px;
 	font-weight: 300;
-
 }
 .quote__author {
 	font-family: Spectral;
