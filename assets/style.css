@@ -101,25 +101,32 @@ nav a {
 	font-size: 14px;
 }
 
-/* #gallery {
-		min-height: 100vh;
-} */
-
 .title{
 	text-align: center;
 	padding-block: 2em;
 }
+
 .gallery .nav {
 	justify-content: center;
 }
+
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #000;
 	background-color: #BEB45A;
-	border-radius:0 ;
+	border-radius: 0;
 }
 .nav-pills .nav-link {
-	color: #000
+	color: #000;
+	cursor: pointer;
 }
+
+/* Ajouté pour centrer la lightbox sur l'axe Y */
+.modal-dialog {
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
